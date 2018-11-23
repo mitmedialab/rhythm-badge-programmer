@@ -32,9 +32,9 @@ Note that the project includes two variations:
 
 Solder the two 1x8 male headers and 1x8 female headers in the right place. For reference, see these images:
 
-[[/images/adapter-top.jpg]]
+![Top view](/images/adapter-top.jpg?raw=true "Top view")
 
-[[/images/adapter-bottom.jpg]]
+![Bottom view](/images/adapter-bottom.jpg?raw=true "Bottom view")
 
 TODO - new photos for adapter 
 
@@ -95,14 +95,13 @@ After the red PCB is secured, you can solder the right angle header or connector
 
 ![Step 1](/images/assembly_01.jpg?raw=true "Step 1")
  
-[[/images/assembly_01.jpg]]
 Mount the top red PCB using 2 x 5mm screws (make sure the orientation is correct)
 
 Solder the pogo pins.  Start from the back, and make your way forward. Be careful not to push them down - when they are hot they can metlt their way through the acrylic.
 
-[[/images/assembly_02.jpg]]
+![Step 2](/images/assembly_02.jpg?raw=true "Step 2")
 
-[[/images/assembly_03.jpg]]
+![Step 3](/images/assembly_03.jpg?raw=true "Step 3")
 
 
 Connect the remaining 4 x 10mm female-female spacers to the 15mm spacers, and use the screws to mount the two remaining acrylic parts. 
