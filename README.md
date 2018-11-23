@@ -110,3 +110,6 @@ For extra comfort you can use the 2.5mm spacers as well - they will lift the top
 
 For smaller of the pins location, push a piece of paper under the lower red layer to change the angle of the pins.
 
+![Final](/images/final.jpg?raw=true "Final 1")
+
+![Final 2](/images/final_bottom.jpg?raw=true "Final 2")
