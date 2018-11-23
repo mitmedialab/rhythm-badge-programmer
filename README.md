@@ -92,6 +92,8 @@ Use 4 x 10mm screws to connect 4 x 15mm female-female spacers to the bottom part
 Place the large red board from the pogo kit on the bottom part of the rig, and use 2 x 10mm screws + 2 x 20mm female-female spacers to mount it (see black spacers in teh image below) 
 
 After the red PCB is secured, you can solder the right angle header or connector (grey component in the image below). If you are using a 10-pin connector, remove the outer pins and keep only the 6 pins in the center. If you are using simple 2x3 right angle pins you are good to go. 
+
+![Step 1](/images/assembly_01.jpg?raw=true "Step 1")
  
 [[/images/assembly_01.jpg]]
 Mount the top red PCB using 2 x 5mm screws (make sure the orientation is correct)
