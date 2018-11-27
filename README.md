@@ -36,14 +36,12 @@ Solder the two 1x8 male headers and 1x8 female headers in the right place. For r
 
 ![Bottom view](/images/adapter-bottom.jpg?raw=true "Bottom view")
 
-TODO - new photos for adapter 
-
 Next, solder a 2x3 female header to the **bottom** of the badge. Then simply place it on the adapter so that the pins are aligned (see images below). 
 If it's a badge that has not been programmed yet, the red LED should turn on after about a second to indicate that the micro-controller is working.
  
- ![Badge with headers](/images/badge-with-headers.jpg?raw=true "Badge with headers")
- 
- ![Badge on adapter](/images/badge-with-header-on-programmer.jpg?raw=true "Badge on adapter")
+![Badge with headers](/images/badge-with-headers.jpg?raw=true "Badge with headers")
+
+![Badge on adapter](/images/badge-with-header-on-programmer.jpg?raw=true "Badge on adapter")
    
 
 # 2 - Adapter board + hand-held pogo-pin programmer
@@ -84,7 +82,7 @@ Laser cutting settings for EPILOG 120 Watt, Legend 36EXT:
 * 3mm acrylic - 25% speed, 85% strength, 2500 freq
 * 1mm acrylic - 50% speed, 85% strength, 2500 freq
 
-TODO - add images of the three parts (before assembly)
+![Acrylic Parts](/images/acrylic-parts.jpg?raw=true "Acrylic parts")
 
 ## 3.2 - Soldering + assembly
 Important! when soldering, make sure nothing sticks out from beneath the bottom red PCB. 
@@ -116,3 +114,7 @@ For smaller of the pins location, push a piece of paper under the lower red laye
 ![Final](/images/final.jpg?raw=true "Final 1")
 
 ![Final 2](/images/final_bottom.jpg?raw=true "Final 2")
+
+To use the rig, place the badge facing up. When programming, press the badge down, and make sure all pogo pins press into the holes. 
+
+![Badge on rig](/images/badge-on-rig.jpg?raw=true "Badge on rig")
