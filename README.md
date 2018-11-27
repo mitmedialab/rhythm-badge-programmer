@@ -41,7 +41,10 @@ TODO - new photos for adapter
 Next, solder a 2x3 female header to the **bottom** of the badge. Then simply place it on the adapter so that the pins are aligned (see images below). 
 If it's a badge that has not been programmed yet, the red LED should turn on after about a second to indicate that the micro-controller is working.
  
-TODO - photos of the badge with header, photos of the badge placed on the adapter   
+ ![Badge with headers](/images/badge-with-headers.jpg?raw=true "Badge with headers")
+ 
+ ![Badge on adapter](/images/badge-with-header-on-programmer.jpg?raw=true "Badge on adapter")
+   
 
 # 2 - Adapter board + hand-held pogo-pin programmer
 Bill of materials:
@@ -54,7 +57,7 @@ Afterwards, use a 6-pin cable to connect the programmer to the adapter board.
 
 Once ready, place the programmer on the top side of the badge, and make sure you align the pins correctly (use VCC and GND for guidance).
 
-TODO - add photos of pogo programmer and how it's placed on the badge
+![Pogo](/images/programmer-pogo.jpg?raw=true "Pogo")
 
 # 3 - Adapter board + programming rig
 In this option, we create a small rig where you can place the badge and press it down against pogo pins. It makes it easier when you need to program large batches of badges.
