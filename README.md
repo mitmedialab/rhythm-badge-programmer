@@ -17,7 +17,7 @@ It requires soldering female headers to the bottom of each badge.
 This option is great for testing, but not ideal for large batches. 
 
 Bill of materials:
-* nRF51 dev kit (nRF51-DK) 
+* nRF51 dev kit ([nRF51-DK](https://www.digikey.com/product-detail/en/nordic-semiconductor-asa/NRF51-DK/1490-1038-ND/5022449)) 
 * Custom PCB board. See the /eagle folder for schematics and gerber files
 * Optional - LED + resistor. Package size is 0603.
 * 1 x double row 2x3 male headers
